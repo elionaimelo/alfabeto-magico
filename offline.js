@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628769556,
+	"version": 1628772530,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -109,6 +109,8 @@
 		"images/current_letter3-sheet13.png",
 		"images/current_letter3-sheet14.png",
 		"images/black_square-sheet0.png",
+		"images/trasition-sheet0.png",
+		"images/logotransition-sheet0.png",
 		"media/happy_joyful_children.ogg",
 		"media/abelha-1.ogg",
 		"media/cachorro-2.ogg",
