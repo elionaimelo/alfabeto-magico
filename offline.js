@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1629395413,
+	"version": 1666206409,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -109,8 +109,22 @@
 		"images/current_letter3-sheet13.png",
 		"images/current_letter3-sheet14.png",
 		"images/black_square-sheet0.png",
-		"images/trasition-sheet0.png",
-		"images/logotransition-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/pdf-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite11-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"images/sprite14-sheet0.png",
+		"images/sprite15-sheet0.png",
+		"images/sprite16-sheet0.png",
+		"images/sprite17-sheet0.png",
 		"media/happy_joyful_children.ogg",
 		"media/abelha-1.ogg",
 		"media/cachorro-2.ogg",
@@ -209,6 +223,7 @@
 		"stylesheet.css",
 		"vid_parabens.mp4",
 		"vid_parabens.webm",
-		"vid_parabens.ogv"
+		"vid_parabens.ogv",
+		"planilha.pdf"
 	]
 }
